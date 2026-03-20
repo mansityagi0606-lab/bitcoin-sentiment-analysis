@@ -19,7 +19,7 @@ Analyze how market sentiment (Fear/Greed) impacts trader performance.
 - Accuracy: ~85%
 
 ## Conclusion
-Market sentiment affects behavior but has limited predictive power on individual trades.
+  Market sentiment significantly influences trader behavior, with losses dominating during Extreme Fear and improved performance in Greed    phases. Traders also take larger and riskier positions in bullish conditions. However, predictive modeling shows that individual trade     success depends more on trade-specific factors like execution price and size rather than sentiment alone.
 
 ## Tools Used
 - Python
